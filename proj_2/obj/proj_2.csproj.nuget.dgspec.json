@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kompa\\OneDrive\\Документы\\chsbc_gus\\proj_2\\proj_2\\proj_2.csproj": {}
+    "C:\\Users\\kompa\\OneDrive\\Документы\\chsbc_gus\\project_2\\proj_2\\proj_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kompa\\OneDrive\\Документы\\chsbc_gus\\proj_2\\proj_2\\proj_2.csproj": {
+    "C:\\Users\\kompa\\OneDrive\\Документы\\chsbc_gus\\project_2\\proj_2\\proj_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kompa\\OneDrive\\Документы\\chsbc_gus\\proj_2\\proj_2\\proj_2.csproj",
+        "projectUniqueName": "C:\\Users\\kompa\\OneDrive\\Документы\\chsbc_gus\\project_2\\proj_2\\proj_2.csproj",
         "projectName": "proj_2",
-        "projectPath": "C:\\Users\\kompa\\OneDrive\\Документы\\chsbc_gus\\proj_2\\proj_2\\proj_2.csproj",
+        "projectPath": "C:\\Users\\kompa\\OneDrive\\Документы\\chsbc_gus\\project_2\\proj_2\\proj_2.csproj",
         "packagesPath": "C:\\Users\\kompa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kompa\\OneDrive\\Документы\\chsbc_gus\\proj_2\\proj_2\\obj\\",
+        "outputPath": "C:\\Users\\kompa\\OneDrive\\Документы\\chsbc_gus\\project_2\\proj_2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
