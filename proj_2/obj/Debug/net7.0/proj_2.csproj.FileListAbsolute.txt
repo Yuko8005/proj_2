@@ -1,0 +1,15 @@
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\bin\Debug\net7.0\proj_2.exe
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\bin\Debug\net7.0\proj_2.deps.json
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\bin\Debug\net7.0\proj_2.runtimeconfig.json
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\bin\Debug\net7.0\proj_2.dll
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\bin\Debug\net7.0\proj_2.pdb
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\obj\Debug\net7.0\proj_2.csproj.AssemblyReference.cache
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\obj\Debug\net7.0\proj_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\obj\Debug\net7.0\proj_2.AssemblyInfoInputs.cache
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\obj\Debug\net7.0\proj_2.AssemblyInfo.cs
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\obj\Debug\net7.0\proj_2.csproj.CoreCompileInputs.cache
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\obj\Debug\net7.0\proj_2.dll
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\obj\Debug\net7.0\refint\proj_2.dll
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\obj\Debug\net7.0\proj_2.pdb
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\obj\Debug\net7.0\proj_2.genruntimeconfig.cache
+C:\Users\kompa\OneDrive\Документы\chsbc_gus\proj_2\proj_2\obj\Debug\net7.0\ref\proj_2.dll
